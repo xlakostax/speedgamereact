@@ -1,0 +1,23 @@
+/* @import have to be used to include external fonts */
+@font-face {
+  font-family: "LVDC Game Over 2";
+  src: url(LVDCGO.TTF);
+}
+
+#root{
+width: 100%;
+height: 100%;
+}
+
+*{
+margin: 0;
+}
+
+body, html{
+height: 100%;
+}
+
+body{
+overflow: hidden;
+background-color: olive;
+}

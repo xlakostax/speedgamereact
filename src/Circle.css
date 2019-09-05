@@ -1,0 +1,24 @@
+#circleHolder{
+display: flex ;
+flex-direction: row ;
+justify-content: center ;
+align-items: center;
+width: 100%;
+height: 50%;
+}
+
+.circle {
+width: 12.5em;
+height: 12.5em;
+margin: 1.25em;
+background-color: khaki;
+border-radius: 50% 50%;
+}
+
+.circleActive{
+background-color: tomato;
+}
+
+.active{
+background-color: tomato;
+}

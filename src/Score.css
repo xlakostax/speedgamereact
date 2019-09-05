@@ -1,0 +1,16 @@
+h3{
+text-align: center;
+}
+
+h3{
+font-family: "LVDC Game Over 2";
+font-size: 1.250em;
+}
+
+h3{
+display: flex;
+justify-content: center;
+align-items: flex-end;
+width: 100%;
+height: 20%;
+}
